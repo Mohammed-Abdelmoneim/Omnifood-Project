@@ -102,9 +102,18 @@
   color: #cf711f;
   font-weight: 700;
 }
-
 /************************/
-/* HOW IT WORKS SECTION */
+/* FEATURED IN SECTION */
+/************************/
+.heading-featured-in {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  letter-spacing: 0.75px;
+  text-align: center;
+  margin-bottom: 2.4rem;
+}
+/************************/
+/* HOW IT WORKS SE///CTION */
 /************************/
 
 .section-how {
