@@ -53,6 +53,7 @@ Default: 1
 }
 html {
   font-size: 62.5%;
+  overflow-x: hidden;
 }
 body {
   scroll-behavior: smooth;
@@ -60,6 +61,10 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #555;
+
+  /* only works if nothing is absolutly positioned
+  in relatio to the body */
+  overflow-x: hidden;
 }
 
 /************************/
